@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "global.leostudio.pet",
+        "paths": [ "/referral/*" ]
+      }
+    ]
+  }
+}
